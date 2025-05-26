@@ -1,8 +1,20 @@
 # Hello and welcome to my profile!
 
+## About me
+
+Here are some languages/techs I'm familiar with :
+
+- *Web frontends (Angular/HTML/TailwindCSS/daisyUI/MaterialUI) : my current tech stack at work*.
+- C# (.NET, WPF, Blazor) : my other well known stack, more for my legacy or CLI-only projects.
+- Cross-language compatibility : I used to do a lot of this. Wrapping libs manually using P/Invoke with C#, or "automatically" using the (https://github.com/swig/swig)[SWIG] project to make python programs talk to a C++ library for example.
+- C, C++ (for programming multicontrollers or similar environments) : I know what a pointer or a segfault is, however I haven't touched it for a long time.
+- Qt : I did a bit of Qml for my end of studies project in the school year 2016-2017, https://github.com/ThomasPrioul/turntable)[you can about read it in my Turntable repository].
+
+## Portfolio (kind of)
+
 Here are some of my publicly available demo apps and libraries.
 
-## https://github.com/ThomasPrioul/mdl-angular-libs[MDL angular lib]
+### https://github.com/ThomasPrioul/mdl-angular-libs[MDL angular lib]
 
 The reusable angular components developed for my team at SNCF's Cluster Ingenierie Ouest (Tours - France).
 It consists of a set of useful directives, but especially of my own flavor of Google's Material UI library, with CSS overrides to comply to SNCF's 2023/2024 design system.
@@ -24,7 +36,11 @@ And a double paned calendar.
 
 image:https://github.com/ThomasPrioul/mdl-angular-libs/raw/main/screenshots/mdl-date-picker.png[Date picker]
 
-## https://github.com/ThomasPrioul/CV[2018 CV as an app]
+### https://github.com/ThomasPrioul/Turntable[End of studies school project (2017) - Raspberry Pi touch controlled turntable railway model]
+
+video::3iFZytrDC-M[youtube]
+
+### https://github.com/ThomasPrioul/CV[2018 CV as an app]
 
 [%hardbreaks]
 My 2018 CV as an executable app (single EXE file - unsigned so windows smartscreen will warn you).  
