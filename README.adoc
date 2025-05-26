@@ -10,7 +10,7 @@ Here are some languages/techs I'm familiar with :
 - C, C++ (for programming multicontrollers or similar environments) : I know what a pointer or a segfault is, however I haven't touched it for a long time.
 - Qt : I did a bit of Qml for my end of studies project in the school year 2016-2017, https://github.com/ThomasPrioul/turntable)[you can about read it in my Turntable repository].
 
-## Portfolio (kind of)
+## Open-source portfolio
 
 Here are some of my publicly available demo apps and libraries.
 
@@ -27,7 +27,6 @@ image::https://img.shields.io/github/release/ThomasPrioul/mdl-angular-libs?inclu
 [link=https://npmjs.com/package/mdl-angular]
 image::https://img.shields.io/badge/npm-mdl--angular-2ea44f)][npm - mdl-angular]
 
-
 Also contains custom made controls such as tree-hierarchy selects, with search bar.
 
 image:https://github.com/ThomasPrioul/mdl-angular-libs/raw/main/screenshots/mdl-tree-select.png[Tree with filter]
@@ -38,7 +37,13 @@ image:https://github.com/ThomasPrioul/mdl-angular-libs/raw/main/screenshots/mdl-
 
 ### https://github.com/ThomasPrioul/Turntable[End of studies school project (2017) - Raspberry Pi touch controlled turntable railway model]
 
+ifdef::env-github[]
+image:https://img.youtube.com/vi/3iFZytrDC-M/maxresdefault.jpg[link=https://youtu.be/3iFZytrDC-M]
+endif::[]
+
+ifndef::env-github[]
 video::3iFZytrDC-M[youtube]
+endif::[]
 
 ### https://github.com/ThomasPrioul/CV[2018 CV as an app]
 
