@@ -1,23 +1,38 @@
-# My projects
+# Hello and welcome to my profile!
 
-## 2018 CV as an app
+Here are some of my publicly available demo apps and libraries.
 
-My CV, as a WPF executable (EXE is not signed so Windows smartscreen will complain about potential issues).
-Uses custom Windows Shell integration, with a print button in the "system bar".
+## https://github.com/ThomasPrioul/mdl-angular-libs[MDL angular lib]
+
+The reusable angular components developed for my team at SNCF's Cluster Ingenierie Ouest (Tours - France).
+It consists of a set of useful directives, but especially of my own flavor of Google's Material UI library, with CSS overrides to comply to SNCF's 2023/2024 design system.
+
+https://thomasprioul.github.io/mdl-angular-libs/[Demo available here!]
+
+[link=https://github.com/ThomasPrioul/mdl-angular-libs/releases/]
+image::https://img.shields.io/github/release/ThomasPrioul/mdl-angular-libs?include_prereleases=&sort=semver&color=blue[GitHub release]
+
+[link=https://npmjs.com/package/mdl-angular]
+image::https://img.shields.io/badge/npm-mdl--angular-2ea44f)][npm - mdl-angular]
 
 
+Also contains custom made controls such as tree-hierarchy selects, with search bar.
 
-<!--
-**ThomasPrioul/ThomasPrioul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+image:https://github.com/ThomasPrioul/mdl-angular-libs/raw/main/screenshots/mdl-tree-select.png[Tree with filter]
 
-Here are some ideas to get you started:
+And a double paned calendar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+image:https://github.com/ThomasPrioul/mdl-angular-libs/raw/main/screenshots/mdl-date-picker.png[Date picker]
+
+## https://github.com/ThomasPrioul/CV[2018 CV as an app]
+
+[%hardbreaks]
+My 2018 CV as an executable app (single EXE file - unsigned so windows smartscreen will warn you).  
+Made with C#/WPF.  
+Uses custom Windows Shell integration, with a print button in the "system bar".  
+Somewhat responsive to greater window sizes.  
+
+link:../../../CV/releases/download/1.0/CV.exe[Download]
+
+image::../../../CV/blob/master/cv.png[cv screenshot]
+
