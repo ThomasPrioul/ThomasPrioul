@@ -1,14 +1,35 @@
 # Hello and welcome to my profile!
 
+French developer living in Tours, France and working for https://masteris.com[MASTERIS], a subsidiary of SNCF dedicated to sharing SNCF's experience to other companies.
+
 ## About me
 
 Here are some languages/techs I'm familiar with :
 
-- *Web frontends (Angular/HTML/TailwindCSS/daisyUI/MaterialUI) : my current tech stack at work*.
+- French and English : I'm fluent in both, you can have me in your meeting, I won't embarass you. I'm a developer but I don't only wear hoodies in dark rooms (a common misconception here in french big companies).
+- *Web frontends (Angular/HTML/TailwindCSS/daisyUI/MaterialUI) : my current tech stack at work*. Not to brag, but I'm the go-to guy for all UI/UX/CSS questions at my office. See <<MDL angular lib>> below for reference.
+- https://thingsboard.io[Thingsboard] and AWS : we use this kind of tech stack at MASTERIS as a base for rapid project prototyping and/or small projects.
 - C# (.NET, WPF, Blazor) : my other well known stack, more for my legacy or CLI-only projects.
 - Cross-language compatibility : I used to do a lot of this. Wrapping libs manually using P/Invoke with C#, or "automatically" using the (https://github.com/swig/swig)[SWIG] project to make python programs talk to a C++ library for example.
+- Docker, AWS, git, etc : I'm not a devops but I'll find my way around if needed.
 - C, C++ (for programming multicontrollers or similar environments) : I know what a pointer or a segfault is, however I haven't touched it for a long time.
 - Qt : I did a bit of Qml for my end of studies project in the school year 2016-2017, https://github.com/ThomasPrioul/turntable)[you can about read it in my Turntable repository].
+
+## Closed-source portfolio
+
+Here I will present some of my work for SNCF/Masteris (without disclosing anything sensible, of course).
+
+### SNCF WPF theme
+
+[%hardbreaks]
+Custom theme made throughout my time as an apprentice at SNCF for my C# apps.
+It ran fine on Windows XP!
+image:img/private-portfolio/wpf-lib-01.png[]
+image:img/private-portfolio/wpf-lib-02.png[]
+
+### TCMS testing benches
+
+
 
 ## Open-source portfolio
 
@@ -53,7 +74,7 @@ Made with C#/WPF.
 Uses custom Windows Shell integration, with a print button in the "system bar".  
 Somewhat responsive to greater window sizes.  
 
-link:../../../CV/releases/download/1.0/CV.exe[Download]
+link:https://github.com/ThomasPrioul/CV/releases/download/1.0/CV.exe[Download]
 
-image::../../../CV/blob/master/cv.png[cv screenshot]
+image::https://github.com/ThomasPrioul/CV/raw/master/cv.png[cv screenshot]
 
