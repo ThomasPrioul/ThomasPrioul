@@ -48,6 +48,7 @@ Here is a photo of the Z57000 bench for reference.
 image:img/private-portfolio/z57000-tcms-bench.jpg[z57000 testing bench]
 
 Later, the program added the possibility to simulate missions to make the Passenger Information System (PIS) play its storyboard (sound announcements and texts on screens).
+image:img/private-portfolio/z57000-sive-bench.png[z57000 testing bench - PIS]
 
 ## Open-source portfolio
 
