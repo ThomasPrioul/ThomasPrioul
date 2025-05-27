@@ -7,7 +7,7 @@ French developer living in Tours, France and working for https://masteris.com[MA
 Here are some languages/techs I'm familiar with :
 
 - French and English : I'm fluent in both, you can have me in your meeting, I won't embarass you, I promise.
-- *Web frontends (Angular/HTML/TailwindCSS/daisyUI/MaterialUI) : my current tech stack at work*. I'm the go-to guy for all UI/UX/CSS questions at my office. See <<mdl angular lib>> below for reference.
+- *Web frontends (Angular/HTML/TailwindCSS/daisyUI/MaterialUI) : my current tech stack at work*. I'm the go-to guy for all UI/UX/CSS questions at my office. See <<mdl-angular-lib>> below for reference.
 - https://thingsboard.io[Thingsboard] and AWS : we use this kind of tech stack at MASTERIS as a base for rapid project prototyping and/or small projects.
 - C# (.NET, WPF, Blazor) : my other well known stack, more for my legacy or CLI-only projects, I worked for 5+ years on all C# things, in pseudo realtime projects, involving custom networking over UDP.
 - Cross-language compatibility : I used to do a lot of this. Wrapping libs manually using P/Invoke with C#, or "automatically" using the (https://github.com/swig/swig)[SWIG] project to make python programs talk to a C++ library for example.
