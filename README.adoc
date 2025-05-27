@@ -6,10 +6,10 @@ French developer living in Tours, France and working for https://masteris.com[MA
 
 Here are some languages/techs I'm familiar with :
 
-- French and English : I'm fluent in both, you can have me in your meeting, I won't embarass you. I'm a developer but I don't only wear hoodies in dark rooms (a common misconception here in french big companies).
-- *Web frontends (Angular/HTML/TailwindCSS/daisyUI/MaterialUI) : my current tech stack at work*. Not to brag, but I'm the go-to guy for all UI/UX/CSS questions at my office. See <<MDL angular lib>> below for reference.
+- French and English : I'm fluent in both, you can have me in your meeting, I won't embarass you, I promise.
+- *Web frontends (Angular/HTML/TailwindCSS/daisyUI/MaterialUI) : my current tech stack at work*. I'm the go-to guy for all UI/UX/CSS questions at my office. See <<MDL angular lib>> below for reference.
 - https://thingsboard.io[Thingsboard] and AWS : we use this kind of tech stack at MASTERIS as a base for rapid project prototyping and/or small projects.
-- C# (.NET, WPF, Blazor) : my other well known stack, more for my legacy or CLI-only projects.
+- C# (.NET, WPF, Blazor) : my other well known stack, more for my legacy or CLI-only projects, I worked for 5+ years on all C# things, in pseudo realtime projects, involving custom networking over UDP.
 - Cross-language compatibility : I used to do a lot of this. Wrapping libs manually using P/Invoke with C#, or "automatically" using the (https://github.com/swig/swig)[SWIG] project to make python programs talk to a C++ library for example.
 - Docker, AWS, git, etc : I'm not a devops but I'll find my way around if needed.
 - C, C++ (for programming multicontrollers or similar environments) : I know what a pointer or a segfault is, however I haven't touched it for a long time.
